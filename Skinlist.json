@@ -1,0 +1,5353 @@
+{  "status": {
+    "time": 30,
+    "date": "John"
+       },
+  "105": [
+    {
+      "bEffects": "false",
+      "id": "10501",
+      "name": "Toro Đặc cảnh NYPD",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "10502",
+      "name": "Toro Trung phong cắm",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "10503",
+      "name": "Toro Thần thoại Hy Lạp",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "10504",
+      "name": "Toro Ngưu hải vương",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "10505",
+      "name": "Toro Bạch mao ngưu",
+     "coin":"10"
+       }
+  ],
+  "106": [
+    {
+      "bEffects": "false",
+      "id": "10601",
+      "name": "Krixi Công chúa bướm",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "10602",
+      "name": "Krixi Xứ sở thần tiên",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "10603",
+      "name": "Krixi Tiệc bãi biển",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "10604",
+      "name": "Krixi Cô tiên thỏ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "10605",
+      "name": "Krixi Phó văn nghệ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "10606",
+      "name": "Krixi Tiểu yêu nữ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "10607",
+      "name": "Krixi Nữ hoàng thiên nga",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "10608",
+      "name": "Krixi Thần thoại Hy Lạp",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "10609",
+      "name": "Krixi Thủy thủ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "10611",
+      "name": "Krixi Lốc xoáy kinh hoàng Tatsumaki",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "10613",
+      "name": "Krixi Nàng tiên nổi loạn",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "10615",
+      "name": "Krixi Tiểu hồng mai",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "10617",
+      "name": "Krixi Quán quân",
+     "coin":"10"
+       }
+  ],
+  "107": [
+    {
+      "bEffects": "false",
+      "id": "10701",
+      "name": "Zephys Oán linh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "10703",
+      "name": "Zephys Hiệp sĩ bí ngô",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "10704",
+      "name": "Zephys Dung nham",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "10705",
+      "name": "Zephys Siêu việt",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "10706",
+      "name": "Zephys Phi thương",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "10707",
+      "name": "Zephys Tư lệnh viễn chinh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "10708",
+      "name": "Zephys Hắc vô thường",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "10709",
+      "name": "Zephys Inosuke Hashibira",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "10711",
+      "name": "Zephys Đầu bếp Sashimi",
+     "coin":"10"
+       }
+  ],
+  "108": [
+    {
+      "bEffects": "true",
+      "id": "10801",
+      "name": "Gildur Tiệc bãi biển",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "10802",
+      "name": "Gildur Phượt thủ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "10803",
+      "name": "Gildur Đại gia học viện",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "10804",
+      "name": "Gildur Đại võ sư",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "10805",
+      "name": "Gildur Thuyền trưởng râu bạc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "10806",
+      "name": "Gildur Bác học thiên tài",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "10807",
+      "name": "Gildur Phù thủy Ba Tư",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "10809",
+      "name": "Gildur Xích Long",
+     "coin":"10"
+       }
+  ],
+  "109": [
+    {
+      "bEffects": "false",
+      "id": "10901",
+      "name": "Veera Cô giáo hắc ám",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "10902",
+      "name": "Veera Góa phụ giả kim",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "10903",
+      "name": "Veera Nàng dơi tuyết",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "10904",
+      "name": "Veera Y tá bạo loạn",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "10905",
+      "name": "Veera Thiên nga đen",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "10906",
+      "name": "Veera Vũ hội bóng đêm",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "10907",
+      "name": "Veera Kimono",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "10908",
+      "name": "Veera Vũ điệu samba",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "10910",
+      "name": "Veera Đánh cắp trái tim",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "10911",
+      "name": "Veera Dơi hắc ám",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "10912",
+      "name": "Veera A.I love you",
+     "coin":"10"
+       }
+  ],
+  "110": [
+    {
+      "bEffects": "false",
+      "id": "11001",
+      "name": "Kahlii Cô dâu hắc ám",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11003",
+      "name": "Kahlii Quàng khăn đỏ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11004",
+      "name": "Kahlii Kim cô giáo chủ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "11005",
+      "name": "Kahlii Siêu đầu bếp",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "11006",
+      "name": "Kahlii Vũ hội bóng đêm",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "11007",
+      "name": "Kahlii Tử Điệp",
+     "coin":"10"
+       }
+  ],
+  "111": [
+    {
+      "bEffects": "true",
+      "id": "11101",
+      "name": "Violet Nữ hoàng pháo hoa",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "11102",
+      "name": "Violet Nữ đặc cảnh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11103",
+      "name": "Violet Phi công trẻ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11104",
+      "name": "Violet Mèo siêu quậy",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11105",
+      "name": "Violet Tiệc bãi biển",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "11106",
+      "name": "Violet Phó học tập",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11107",
+      "name": "Violet Thứ nguyên vệ thần",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11108",
+      "name": "Violet Pháo hoa Neon",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11109",
+      "name": "Violet Đặc dị",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11110",
+      "name": "Violet Vợ người ta",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "11111",
+      "name": "Violet Tay súng siêu phàm",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "11112",
+      "name": "Violet Huy chương vàng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11113",
+      "name": "Violet Huyết ma thần",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11114",
+      "name": "Violet Lam tước",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11115",
+      "name": "Violet Thần Long tỷ tỷ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11116",
+      "name": "Violet DJ Câu hồn",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11119",
+      "name": "Violet Vọng nguyệt Long cơ",
+     "coin":"10"
+       }
+  ],
+  "112": [
+    {
+      "bEffects": "false",
+      "id": "11201",
+      "name": "Yorn Cung thủ bóng đêm",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11203",
+      "name": "Yorn Đặc nhiệm SWAT",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11204",
+      "name": "Yorn Phá Vân tiễn",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11205",
+      "name": "Yorn Long thần soái",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11206",
+      "name": "Yorn Nam thần giáng sinh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11207",
+      "name": "Yorn Soái ca học đường",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11208",
+      "name": "Yorn Thần thoại Hy Lạp",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "11209",
+      "name": "Yorn Lục nguyệt cung",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "11211",
+      "name": "Yorn Tiệc bãi biển",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11212",
+      "name": "Yorn Vệ Binh ngân hà",
+     "coin":"10"
+       }
+  ],
+  "113": [
+    {
+      "bEffects": "false",
+      "id": "11301",
+      "name": "Chaugnar Ác mộng sinh hóa",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "11303",
+      "name": "Chaugnar Quang vinh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "11304",
+      "name": "Chaugnar Quân cảnh",
+     "coin":"10"
+       }
+  ],
+  "114": [
+    {
+      "bEffects": "false",
+      "id": "11402",
+      "name": "Omega Người máy xanh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "11403",
+      "name": "Omega Cỗ máy siêu tốc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "11404",
+      "name": "Omega Hộ vệ ba bích",
+     "coin":"10"
+       }
+  ],
+  "115": [
+    {
+      "bEffects": "false",
+      "id": "11501",
+      "name": "Jinna Đại tư tế",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11502",
+      "name": "Jinna Dạ xoa vương",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11503",
+      "name": "Jinna Hỏa nhãn ma vương",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "11504",
+      "name": "Jinna Kim quang thánh đồ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "11506",
+      "name": "Jinna Kim giác",
+     "coin":"10"
+       }
+  ],
+  "116": [
+    {
+      "bEffects": "false",
+      "id": "11601",
+      "name": "Butterfly Xuân nữ ngổ ngáo",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "11602",
+      "name": "Butterfly Thủy thủ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "11603",
+      "name": "Butterfly Teen nữ công nghệ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11604",
+      "name": "Butterfly Nữ quái nổi loạn",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11605",
+      "name": "Butterfly Quận chúa đế chế",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11606",
+      "name": "Butterfly Đông êm đềm",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11607",
+      "name": "Butterfly Phượng cửu thiên",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11608",
+      "name": "Butterfly Cẩm y vệ: Chu tước",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11610",
+      "name": "Butterfly Asuna Tia Chớp",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11611",
+      "name": "Butterfly Stacia",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11613",
+      "name": "Butterfly Gánh anh đến cùng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11614",
+      "name": "Butterfly Kim Ngư thần nữ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11616",
+      "name": "Butterfly Nữ thần Khởi nguyên",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11618",
+      "name": "Butterfly Tình yêu nổi loạn",
+     "coin":"10"
+       }   
+  ],
+  "117": [
+    {
+      "bEffects": "false",
+      "id": "11701",
+      "name": "Ormarr Cựu chiến binh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11703",
+      "name": "Ormarr Thông thỏa thích",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "11704",
+      "name": "Ormarr Giáo viên thể hình",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "11705",
+      "name": "Ormarr Ông chủ KFC",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "11706",
+      "name": "Ormarr CĐV Cuồng nhiệt",
+     "coin":"10"
+       }
+  ],
+  "118": [
+    {
+      "bEffects": "false",
+      "id": "11801",
+      "name": "Alice Nhà chiêm tinh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11802",
+      "name": "Alice Phi hành gia",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11803",
+      "name": "Alice Bé gấu tuyết",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "11804",
+      "name": "Alice Xứ sở thần tiên",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "11805",
+      "name": "Alice Dạ hội",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11806",
+      "name": "Alice Tiểu quỷ bí ngô",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11807",
+      "name": "Alice Bé du xuân",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11809",
+      "name": "Alice Tiểu tiên tử",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11810",
+      "name": "Alice The&nbsp;Butterfly&nbsp;Mansion&nbsp;Girl",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11812",
+      "name": "Alice Eternal Sailor Chibi Moon",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11816",
+      "name": "Alice Xứ sở diệu kỳ",
+     "coin":"10"
+       }
+  ],
+  "119": [
+    {
+      "bEffects": "false",
+      "id": "11901",
+      "name": "Mganga Hề cung đình",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11902",
+      "name": "Mganga Tiệc bánh kẹo",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11903",
+      "name": "Mganga Pháp sư mèo",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "11904",
+      "name": "Mganga Nhà hóa học",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "11905",
+      "name": "Mganga Độc toàn thân",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "11906",
+      "name": "Mganga Quái tặc không gian",
+     "coin":"10"
+       }
+  ],
+  "120": [
+    {
+      "bEffects": "false",
+      "id": "12001",
+      "name": "Mina Tiểu thư đoạt hồn",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "12002",
+      "name": "Mina Chị đại lắm chiêu",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "12003",
+      "name": "Mina Tiệc bánh kẹo",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "12004",
+      "name": "Mina Kẹo hay ghẹo",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "12005",
+      "name": "Mina Lưỡi hái hoàng kim",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "12006",
+      "name": "Mina Đào tạo siêu sao",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "12007",
+      "name": "Mina Nữ thần Ai Cập",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "12008",
+      "name": "Mina Linh xà Yêu vũ",
+     "coin":"10"
+       }
+  ],
+  "121": [
+    {
+      "bEffects": "false",
+      "id": "12101",
+      "name": "Marja Lam Hải yêu hậu",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "12102",
+      "name": "Marja Linh xà tư tế",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "12103",
+      "name": "Marja Hỏa ngọc nữ vương",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "12104",
+      "name": "Marja Yêu nữ săn mồi",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "12105",
+      "name": "Marja Chủ hôn",
+     "coin":"10"
+       }
+  ],
+  "123": [
+    {
+      "bEffects": "false",
+      "id": "12301",
+      "name": "Maloch Ác ma địa ngục",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "12302",
+      "name": "Maloch Tiệc hóa trang",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "12303",
+      "name": "Maloch Samurai tử sĩ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "12304",
+      "name": "Maloch Đại tướng Rô bốt",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "12305",
+      "name": "Maloch Ông kẹ bí ngô",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "12306",
+      "name": "Maloch Ác nhân vô tuyến",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "12307",
+      "name": "Maloch Vũ hội bóng đêm",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "12308",
+      "name": "Maloch Đại ca Mukbang",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "12309",
+      "name": "Maloch Quỷ nhãn ma thể",
+     "coin":"10"
+       }
+  ],
+  "124": [
+    {
+      "bEffects": "false",
+      "id": "12401",
+      "name": "Ignis Hỏa thuật sư",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "12402",
+      "name": "Ignis Quang vinh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "12403",
+      "name": "Ignis Bắc băng vương",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "12404",
+      "name": "Ignis Thầy tế mặt trời",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "12405",
+      "name": "Ignis Thần mặt trời",
+     "coin":"10"
+       }
+  ],
+  "126": [
+    {
+      "bEffects": "false",
+      "id": "12602",
+      "name": "Arduin Quang vinh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "12603",
+      "name": "Arduin Tà linh hiệp sỹ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "12604",
+      "name": "Arduin Chiến binh cổ đại",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "12605",
+      "name": "Arduin Đường vào tim em",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "12606",
+      "name": "Arduin Bạch vệ chiến giáp",
+     "coin":"10"
+       }
+  ],
+  "127": [
+    {
+      "bEffects": "false",
+      "id": "12702",
+      "name": "Azzen'Ka Linh hồn lữ khách",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "12703",
+      "name": "Azzen'Ka Ghẹo hay kẹo",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "12704",
+      "name": "Azzen'Ka Quỷ diện lãng khách",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "12705",
+      "name": "Azzen'Ka Quang vinh 2.0",
+     "coin":"10"
+       }
+  ],
+  "128": [
+    {
+      "bEffects": "true",
+      "id": "12801",
+      "name": "Lữ Bố Tiệc bãi biển",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "12802",
+      "name": "Lữ Bố Nam vương",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "12803",
+      "name": "Lữ Bố Long kỵ sĩ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "12804",
+      "name": "Lữ Bố Kỵ sĩ âm phủ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "12805",
+      "name": "Lữ Bố Đặc nhiệm SWAT",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "12806",
+      "name": "Lữ Bố Tư lệnh Robot",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "12807",
+      "name": "Lữ Bố Hỏa long chiến thần",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "12808",
+      "name": "Lữ Bố Ichigo Kurosaki",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "12809",
+      "name": "Lữ Bố Thần ngọc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "12810",
+      "name": "Lữ Bố Vũ điệu samba",
+     "coin":"10"
+       }
+  ],
+  "129": [
+    {
+      "bEffects": "false",
+      "id": "12901",
+      "name": "Triệu Vân Tiến sĩ thiên tài",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "12902",
+      "name": "Triệu Vân Đoạt mệnh thương",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "12903",
+      "name": "Triệu Vân Quý công tử",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "12904",
+      "name": "Triệu Vân Dũng sĩ đồ long",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "12906",
+      "name": "Triệu Vân Chiến tướng mùa đông",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "12907",
+      "name": "Triệu Vân Kỵ sĩ tận thế",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "12908",
+      "name": "Triệu Vân Cẩm y vệ: Hỏa long",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "12910",
+      "name": "Triệu Vân Thần tài",
+     "coin":"10"
+       }
+  ],
+  "130": [
+    {
+      "bEffects": "true",
+      "id": "13001",
+      "name": "Airi Thích khách",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "13002",
+      "name": "Airi Ninja xanh lá",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "13003",
+      "name": "Airi Quái xế công nghệ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13004",
+      "name": "Airi Cấm vệ nguyệt tộc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13005",
+      "name": "Airi Kiemono",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13006",
+      "name": "Airi Bạch Kiemono",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "13007",
+      "name": "Airi Phó kiếm đạo",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13008",
+      "name": "Airi Tiệc bãi biển",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13009",
+      "name": "Airi Mỵ hồ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13010",
+      "name": "Airi Đặc công tử điệp",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13011",
+      "name": "Airi Bích Hải thánh nữ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "13012",
+      "name": "Airi Lễ hội mùa xuân",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13013",
+      "name": "Airi Thánh nữ Xiêm La",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13015",
+      "name": "Airi Thứ nguyên Vệ thần",
+     "coin":"10"
+       }
+  ],
+  "131": [
+    {
+      "bEffects": "false",
+      "id": "13101",
+      "name": "Murad Thợ săn tiền thưởng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13102",
+      "name": "Murad M-TP Thần tượng học đường",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13103",
+      "name": "Murad Đồ thần đao",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "13114",
+      "name": "Murad S - Quang vinh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13115",
+      "name": "Murad Huyết hỏa cuồng đồ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13116",
+      "name": "Murad Tuyệt thế thần binh",
+     "coin":"10"
+       }
+  ],
+  "132": [
+    {
+      "bEffects": "false",
+      "id": "13201",
+      "name": "Hayate Bạch ảnh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13202",
+      "name": "Hayate Chiến binh trăng khuyết",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13203",
+      "name": "Hayate Ngân lang",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13204",
+      "name": "Hayate Tử thần vũ trụ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13205",
+      "name": "Hayate Quỷ diện",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13206",
+      "name": "Hayate Kim ưng sát thủ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "13207",
+      "name": "Hayate Bạch lang",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13208",
+      "name": "Hayate Bạch vô thường",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13209",
+      "name": "Hayate Bóng người dưới trăng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13210",
+      "name": "Hayate Tu Di thánh đế",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13211",
+      "name": "Hayate Mãnh hổ kim cang",
+     "coin":"10"
+       }
+  ],
+  "133": [
+    {
+      "bEffects": "false",
+      "id": "13301",
+      "name": "Valhein Hoàng tử quạ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13302",
+      "name": "Valhein Vũ khí tối thượng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13304",
+      "name": "Valhein Đại công tước",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "13306",
+      "name": "Valhein Số 7 thần sầu",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13307",
+      "name": "Valhein Khiêu chiến",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13308",
+      "name": "Valhein Cá mập nghiêm túc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13309",
+      "name": "Valhein Hoàng tử Băng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13310",
+      "name": "Valhein Thần tài",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13311",
+      "name": "Valhein Xạ thần Kagutsuchi",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "13312",
+      "name": "Valhein S - Quang vinh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13313",
+      "name": "Valhein Đệ nhất thần thám",
+     "coin":"10"
+       }
+  ],
+  "134": [
+    {
+      "bEffects": "false",
+      "id": "13402",
+      "name": "Skud Sơn tặc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "13403",
+      "name": "Skud Quang vinh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13404",
+      "name": "Skud Tà linh ma tướng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "13405",
+      "name": "Skud Mafia",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "13407",
+      "name": "Skud Cứu hộ",
+     "coin":"10"
+       }
+  ],
+  "135": [
+    {
+      "bEffects": "false",
+      "id": "13501",
+      "name": "Thane Kẻ hủy diệt",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "13503",
+      "name": "Thane Quang vinh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13504",
+      "name": "Thane Mật vụ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "13505",
+      "name": "Thane Bác ong bay vừa",
+     "coin":"10"
+       }
+  ],
+  "136": [
+    {
+      "bEffects": "false",
+      "id": "13601",
+      "name": "Ilumia Nữ chúa tuyết",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13602",
+      "name": "Ilumia Thần mặt trời",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13603",
+      "name": "Ilumia Hồng hoa hậu",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13604",
+      "name": "Ilumia Thiên nữ Áo dài",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "13605",
+      "name": "Ilumia Nữ hoàng khí giới",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "13606",
+      "name": "Ilumia Diva nổi loạn",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "13607",
+      "name": "Ilumia Ngược dòng thời gian",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13608",
+      "name": "Ilumia Quý cô nhà hát",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13609",
+      "name": "Ilumia Khải Huyền Thiên Hậu",
+     "coin":"10"
+       }
+  ],
+  "137": [
+    {
+      "bEffects": "false",
+      "id": "13701",
+      "name": "Paine Khúc nhạc tử vong",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "13702",
+      "name": "Paine Phi vụ thế kỷ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13703",
+      "name": "Paine Công tước máu",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13704",
+      "name": "Paine Ô Thước đại hiệp",
+     "coin":"10"
+       }
+  ],
+  "139": [
+    {
+      "bEffects": "false",
+      "id": "13901",
+      "name": "Kil'Groth Cảnh vệ biển",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "13902",
+      "name": "Kil'Groth Quang vinh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "13903",
+      "name": "Kil'Groth Chú lính chì",
+     "coin":"10"
+       }
+  ],
+  "140": [
+    {
+      "bEffects": "false",
+      "id": "14001",
+      "name": "Superman Chúa tể công lý",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14002",
+      "name": "Superman Bất công lý",
+     "coin":"10"
+       }
+  ],
+  "141": [
+    {
+      "bEffects": "true",
+      "id": "14102",
+      "name": "Lauriel Hỏa phượng hoàng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14103",
+      "name": "Lauriel Phù thủy bí ngô",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14104",
+      "name": "Lauriel Thánh quang sứ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14105",
+      "name": "Lauriel Hoa khôi giáng sinh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14106",
+      "name": "Lauriel Lạc thần",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14107",
+      "name": "Lauriel Tinh vân sứ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14108",
+      "name": "Lauriel Tiệc bãi biển",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14109",
+      "name": "Lauriel Thiên sứ công nghệ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14110",
+      "name": "Lauriel Phi Thiên",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14111",
+      "name": "Lauriel Thứ nguyên vệ thần",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14114",
+      "name": "Lauriel Nữ vương học đường",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14115",
+      "name": "Lauriel Đôi cánh Nguyệt thực",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "14116",
+      "name": "Lauriel Nữ vương học đường",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14117",
+      "name": "Lauriel Vũ khúc miêu ảnh",
+     "coin":"10"
+       }
+  ],
+  "142": [
+    {
+      "bEffects": "true",
+      "id": "14201",
+      "name": "Natalya Mị muốn đi chơi",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14202",
+      "name": "Natalya Nghệ nhân lân",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "14203",
+      "name": "Natalya Quý cô thủy tề",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14204",
+      "name": "Natalya Phó nháy nhí nhảnh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14205",
+      "name": "Natalya Quà quái quỷ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14206",
+      "name": "Natalya Nghiệp hỏa yêu hậu",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14207",
+      "name": "Natalya Băng tâm thần nữ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14208",
+      "name": "Natalya Nữ quái công nghệ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14209",
+      "name": "Natalya Nghệ sĩ ma mị",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14210",
+      "name": "Natalya Thần phú quý",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14212",
+      "name": "Natalya Biệt đội băng lam",
+     "coin":"10"
+       }
+  ],
+  "144": [
+    {
+      "bEffects": "true",
+      "id": "14401",
+      "name": "Taara Đại tù trưởng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14402",
+      "name": "Taara Lam Hải chiến nữ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14403",
+      "name": "Taara Hỏa ngọc nữ đế",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14404",
+      "name": "Taara Tiệc bãi biển",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14405",
+      "name": "Taara Hồng môn đường chủ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "14406",
+      "name": "Taara Tư lệnh hải âu",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "14407",
+      "name": "Taara Nữ chiến binh",
+     "coin":"10"
+       }
+  ],
+  "146": [
+    {
+      "bEffects": "false",
+      "id": "14601",
+      "name": "Zill Lốc địa ngục",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14602",
+      "name": "Zill Dung nham",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14603",
+      "name": "Zill Cựu thần thiên hà",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14604",
+      "name": "Zill Diệt nguyệt tử sĩ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "14605",
+      "name": "Zill Thần Mộng Mị",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14606",
+      "name": "Zill Phong thần Tu La",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "14610",
+      "name": "Zill Quái xế",
+     "coin":"10"
+       }
+  ],
+  "148": [
+    {
+      "bEffects": "false",
+      "id": "14801",
+      "name": "Preyta Không tặc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14802",
+      "name": "Preyta Băng hỏa long sư",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "14803",
+      "name": "Preyta Phi cơ F1",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "14804",
+      "name": "Preyta Ma độc huyết long",
+     "coin":"10"
+       }
+  ],
+  "149": [
+    {
+      "bEffects": "false",
+      "id": "14901",
+      "name": "Xeniel Thiên sứ hủy diệt",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "14902",
+      "name": "Xeniel Trung vệ thép",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "14903",
+      "name": "Xeniel Kim sí điểu",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14904",
+      "name": "Xeniel Ma sứ tận thế",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14905",
+      "name": "Xeniel Tổng lãnh tinh hệ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "14906",
+      "name": "Xeniel Thần thoại Hy Lạp",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "14908",
+      "name": "Xeniel Shipper bánh mỳ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "14909",
+      "name": "Xeniel Hóa thân Tengu",
+     "coin":"10"
+       }
+  ],
+  "150": [
+    {
+      "bEffects": "true",
+      "id": "15001",
+      "name": "Nakroth Chiến binh hỏa ngục",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "15002",
+      "name": "Nakroth Quân đoàn địa ngục",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15003",
+      "name": "Nakroth Bboy công nghệ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15004",
+      "name": "Nakroth Siêu việt",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15005",
+      "name": "Nakroth Khiêu chiến",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15006",
+      "name": "Nakroth Quán quân",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15007",
+      "name": "Nakroth Lôi quang sứ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15008",
+      "name": "Nakroth Tiệc bãi biển",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15009",
+      "name": "Nakroth Thứ nguyên vệ thần",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15012",
+      "name": "Nakroth Killua",
+     "coin":"10"
+       },
+  ],
+  "152": [
+    {
+      "bEffects": "false",
+      "id": "15201",
+      "name": "Điêu Thuyền Nữ vương anh đào",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15202",
+      "name": "Điêu Thuyền Tiệc bãi biển",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "15203",
+      "name": "Điêu Thuyền Nữ y tá",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15204",
+      "name": "Điêu Thuyền WaVe",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15205",
+      "name": "Điêu Thuyền Hoa hậu",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15206",
+      "name": "Điêu Thuyền Phù thủy bí ngô",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15206",
+      "name": "Điêu Thuyền Phù thủy bí ngô",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "15207",
+      "name": "Điêu Thuyền Vũ điệu Nghê Thường",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15208",
+      "name": "Điêu Thuyền Tà linh pháp trượng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15209",
+      "name": "Điêu Thuyền Mèo công nghệ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15210",
+      "name": "Điêu Thuyền Thần ngọc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15211",
+      "name": "Điêu Thuyền Thất Tịch tiên tử",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15212",
+      "name": "Điêu Thuyền Eternal Sailor Moon",
+     "coin":"10"
+       }
+  ],
+  "153": [
+    {
+      "bEffects": "false",
+      "id": "15301",
+      "name": "Kaine Đôi cánh đại dương",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15302",
+      "name": "Kaine Dơi địa ngục",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "15303",
+      "name": "Kaine Batman",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15304",
+      "name": "Kaine Chiến binh kim quang",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "15305",
+      "name": "Kaine Thiếu chủ bóng đêm",
+     "coin":"10"
+       }
+  ],
+  "154": [
+    {
+      "bEffects": "false",
+      "id": "15401",
+      "name": "Yena Khuyên bạc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15402",
+      "name": "Yena Thỏ may mắn",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15403",
+      "name": "Yena Chiến binh nguyệt tộc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "15404",
+      "name": "Yena Hoạt náo viên",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "15405",
+      "name": "Yena Nữ hoàng thể thao",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15406",
+      "name": "Yena Dạ nguyệt thánh nữ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15407",
+      "name": "Yena Giảng viên tình ái",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "15408",
+      "name": "Yena Nữ cướp biển",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15409",
+      "name": "Yena WaVe",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15410",
+      "name": "Yena Vũ điệu Giáng Sinh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15412",
+      "name": "Yena Huyền Cửu Thiên",
+     "coin":"10"
+       }
+  ],
+  "156": [
+    {
+      "bEffects": "false",
+      "id": "15601",
+      "name": "Aleister Thiếu niên hắc ám",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "15602",
+      "name": "Aleister Quang vinh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15603",
+      "name": "Aleister Quỷ soái nguyệt tộc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15604",
+      "name": "Aleister Siêu sao bóng rổ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "15605",
+      "name": "Aleister Xứ sở thần tiên",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "15606",
+      "name": "Aleister Tư lệnh viễn chinh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15607",
+      "name": "Aleister Âm dương sư",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "15608",
+      "name": "Aleister Ảo thuật gia",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "15609",
+      "name": "Aleister Thống lĩnh hỗn mang",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15610",
+      "name": "Aleister Mật vụ thần thám",
+     "coin":"10"
+       }
+  ],
+  "157": [
+    {
+      "bEffects": "false",
+      "id": "15702",
+      "name": "Raz Đại tù trưởng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15703",
+      "name": "Raz Băng quyền quán quân",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15704",
+      "name": "Raz Chiến thần Muay Thái",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15705",
+      "name": "Raz Siêu việt",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15706",
+      "name": "Raz Siêu cấp tin tặc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15707",
+      "name": "Raz Thám hiểm",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15708",
+      "name": "Raz Mãnh lôi thần quyền",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "15709",
+      "name": "Raz MC võ đài",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15710",
+      "name": "Raz Bão vũ Cuồng lôi",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "15711",
+      "name": "Raz Gon",
+     "coin":"10"
+       }
+  ],
+  "162": [
+    {
+      "bEffects": "false",
+      "id": "16201",
+      "name": "Kriknak Bọ cánh bạc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16202",
+      "name": "Kriknak Yêu trùng cổ mộ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16203",
+      "name": "Kriknak ST.L-162",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "16204",
+      "name": "Kriknak Bọ cánh cam",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16205",
+      "name": "Kriknak Tử trùng DDos",
+     "coin":"10"
+       }
+  ],
+  "163": [
+    {
+      "bEffects": "false",
+      "id": "16301",
+      "name": "Ryoma Thợ săn tiền thưởng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16302",
+      "name": "Ryoma Đại tướng nguyệt tộc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16303",
+      "name": "Ryoma Thanh long bang chủ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16304",
+      "name": "Ryoma Samurai huyền thoại",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "16305",
+      "name": "Ryoma Dạ hội",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16306",
+      "name": "Ryoma Chiến binh Cyborg",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16307",
+      "name": "Ryoma Ultraman",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16308",
+      "name": "Ryoma Đặc nhiệm Giáng sinh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16309",
+      "name": "Ryoma Khiêu chiến",
+     "coin":"10"
+       }
+  ],
+  "166": [
+    {
+      "bEffects": "false",
+      "id": "16601",
+      "name": "Arthur Hoàng kim cốt",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "16602",
+      "name": "Arthur Lãnh chúa xương",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16603",
+      "name": "Arthur Si tình kiếm",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "16604",
+      "name": "Arthur Siêu sao Cricket",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16605",
+      "name": "Arthur Đặc cảnh băng lôi",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16606",
+      "name": "Arthur Hiệp sĩ trăng khuyết",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16607",
+      "name": "Arthur Siêu việt",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16608",
+      "name": "Arthur Crescent General",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16609",
+      "name": "Arthur Tôn Hổ vô song",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "16610",
+      "name": "Arthur Hoàng tử Okka",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16611",
+      "name": "Arthur Biệt đội băng lam",
+     "coin":"10"
+       }
+  ],
+  "167": [
+    {
+      "bEffects": "false",
+      "id": "16701",
+      "name": "Ngộ Không Đạo tặc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "16701",
+      "name": "Ngộ Không Đạo tặc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16702",
+      "name": "Ngộ Không Hỏa nhãn kim tinh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16702",
+      "name": "Ngộ Không Hỏa nhãn kim tinh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16703",
+      "name": "Ngộ Không Siêu việt",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16704",
+      "name": "Ngộ Không Ngộ khá trẩu",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16705",
+      "name": "Ngộ Không Siêu việt 2.0",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16706",
+      "name": "Ngộ Không Đặc vụ băng hầu",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16707",
+      "name": "Ngộ Không Nhóc tì bá đạo",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16707",
+      "name": "Ngộ Không Nhóc tì bá đạo",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16707",
+      "name": "Ngộ Không Nhóc tì bá đạo",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16707",
+      "name": "Ngộ Không Nhóc tì bá đạo",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16707",
+      "name": "Ngộ Không Nhóc tì bá đạo",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16708",
+      "name": "Ngộ Không Tề Thiên ma hầu",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "16709",
+      "name": "Ngộ Không Cổ thần Ai Cập",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16710",
+      "name": "Ngộ Không Tân niên Võ thần",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16711",
+      "name": "Ngộ Không Thần Giáp Xích Diễm",
+     "coin":"10"
+       }
+  ],
+  "168": [
+    {
+      "bEffects": "false",
+      "id": "16802",
+      "name": "Lumburr Dung nham",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16803",
+      "name": "Lumburr Cự thần viễn cổ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "16804",
+      "name": "Lumburr Máy đào khoáng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "16805",
+      "name": "Lumburr Vệ binh hỏa diệm",
+     "coin":"10"
+       }
+  ],
+  "169": [
+    {
+      "bEffects": "false",
+      "id": "16901",
+      "name": "Slimz Thỏ thợ mỏ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "16902",
+      "name": "Slimz Chú thỏ ngọc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "16903",
+      "name": "Slimz Xứ sở thần tiên",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "16904",
+      "name": "Slimz Thỏ nhồi bông",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "16905",
+      "name": "Slimz Giấc mơ trưa",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "16906",
+      "name": "Slimz Lẩu chua cay",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "16907",
+      "name": "Slimz Sứ giả thiên giới",
+     "coin":"10"
+       }
+  ],
+  "170": [
+    {
+      "bEffects": "false",
+      "id": "17001",
+      "name": "Moren Anh thợ điện",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "17002",
+      "name": "Moren Lính cứu hỏa",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "17003",
+      "name": "Moren Binh nhì",
+     "coin":"10"
+       }
+  ],
+  "171": [
+    {
+      "bEffects": "false",
+      "id": "17101",
+      "name": "Cresht Thợ sửa cáp",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "17102",
+      "name": "Cresht Cá cắn cáp",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "17103",
+      "name": "Cresht Đại sư sushi",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "17104",
+      "name": "Cresht Tiệc bãi biển",
+     "coin":"10"
+       }
+  ],
+  "173": [
+    {
+      "bEffects": "false",
+      "id": "17301",
+      "name": "Fennik Nhà thám hiểm",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "17302",
+      "name": "Fennik Đội đặc nhiệm",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "17303",
+      "name": "Fennik Tiệc bánh kẹo",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "17304",
+      "name": "Fennik Tuần lộc láu lỉnh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "17305",
+      "name": "Fennik Phi hành gia",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "17306",
+      "name": "Fennik Tay đua F1",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "17307",
+      "name": "Fennik Shipper Siêu thanh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "17308",
+      "name": "Fennik Phi hồ ẩn sĩ",
+     "coin":"10"
+       }
+  ],
+  "174": [
+    {
+      "bEffects": "false",
+      "id": "17401",
+      "name": "Stuart Trò đùa tử vong",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "17402",
+      "name": "Stuart Vua hề",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "17403",
+      "name": "Stuart Joker",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "17404",
+      "name": "Stuart Đêm kinh hoàng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "17405",
+      "name": "Stuart Đạo tặc tử quang",
+     "coin":"10"
+       }
+  ],
+  "175": [
+    {
+      "bEffects": "true",
+      "id": "17501",
+      "name": "Grakk Thuyền trưởng râu đỏ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "17502",
+      "name": "Grakk Khô lâu đại tướng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "17503",
+      "name": "Grakk Chàng gấu tuyết",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "17504",
+      "name": "Grakk Đi vào lòng đất",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "17505",
+      "name": "Grakk Mèo Thần tài",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "17506",
+      "name": "Grakk Sumo",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "17507",
+      "name": "Grakk Tiệc bãi biển",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "17508",
+      "name": "Grakk Màu cờ sắc áo",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "17509",
+      "name": "Grakk Vũ điệu Samba",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "17510",
+      "name": "Grakk Cỗ xe tăng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "17512",
+      "name": "Grakk Cận vệ Mafia",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "17517",
+      "name": "Grakk Thần ẩm thực",
+     "coin":"10"
+       }
+  ],
+  "177": [
+    {
+      "bEffects": "false",
+      "id": "17701",
+      "name": "Lindis Thám tử tư",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "17702",
+      "name": "Lindis Quang thánh tiễn",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "17703",
+      "name": "Lindis Quang vinh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "17704",
+      "name": "Lindis Nữ vương pháo hoa",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "17705",
+      "name": "Lindis Dạ tiệc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "17706",
+      "name": "Lindis Đồng phục Shihakusho",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "17708",
+      "name": "Lindis Đặc vụ thần thám",
+     "coin":"10"
+       }
+  ],
+  "180": [
+    {
+      "bEffects": "false",
+      "id": "18001",
+      "name": "Max Hiệp sĩ nhí",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "18002",
+      "name": "Max Găng tay vàng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "18003",
+      "name": "Max Quang vinh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "18004",
+      "name": "Max Thần đồng sinh hóa",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "18005",
+      "name": "Max Thần thoại Hy Lạp",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "18006",
+      "name": "Max Tiểu King Kong",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "18007",
+      "name": "Max Chuyên gia đập hộp",
+     "coin":"10"
+       }
+  ],
+  "184": [
+    {
+      "bEffects": "false",
+      "id": "18403",
+      "name": "Helen Ngủ trong rừng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "18404",
+      "name": "Helen Hotgirl Trà sữa",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "18405",
+      "name": "Helen Hồng liên tiên tử",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "18406",
+      "name": "Helen Xứ sở diệu kỳ",
+     "coin":"10"
+       }
+  ],
+  "186": [
+    {
+      "bEffects": "false",
+      "id": "18601",
+      "name": "TeeMee Xiếc cung đình",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "18603",
+      "name": "TeeMee Tay đua Siêu Tốc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "18604",
+      "name": "TeeMee Thần thoại Hy Lạp",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "18605",
+      "name": "TeeMee Thịt xiên nướng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "18606",
+      "name": "TeeMee Tanuki chiêu tài",
+     "coin":"10"
+       }
+  ],
+  "187": [
+    {
+      "bEffects": "false",
+      "id": "18701",
+      "name": "Arum Thú vệ cổ mộ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "18702",
+      "name": "Arum Vũ khúc long hổ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "18703",
+      "name": "Arum Linh tượng vu nữ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "18704",
+      "name": "Arum Vũ khúc thần sứ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "18705",
+      "name": "Arum Thỏ may mắn",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "18706",
+      "name": "Arum Nữ hoàng gấu xám",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "18708",
+      "name": "Arum Quản lý tài năng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "18709",
+      "name": "Arum Bạn muốn hẹn hò?",
+     "coin":"10"
+       }
+  ],
+  "189": [
+    {
+      "bEffects": "false",
+      "id": "18901",
+      "name": "Krizzix Cún siêu quậy",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "18902",
+      "name": "Krizzix Đội đặc nhiệm",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "18903",
+      "name": "Krizzix Nghệ sĩ đường phố",
+     "coin":"10"
+       }
+  ],
+  "190": [
+    {
+      "bEffects": "false",
+      "id": "19001",
+      "name": "Tulen Nhà thám hiểm",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "19003",
+      "name": "Tulen Phù thủy kiến tạo",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19004",
+      "name": "Tulen Đông êm đềm",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "19005",
+      "name": "Tulen Phó kỷ luật",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19006",
+      "name": "Tulen Tân thần hoàng kim",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19007",
+      "name": "Tulen Chí tôn kiếm tiên",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "19008",
+      "name": "Tulen Dạ hội",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19009",
+      "name": "Tulen Thần sứ STL-79",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19010",
+      "name": "Tulen Hỏa thần long tộc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19011",
+      "name": "Tulen Đại úy Athanor",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19012",
+      "name": "Tulen Tân niên vệ thần",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19013",
+      "name": "Tulen Tiêu Dao Vũ Thần",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19014",
+      "name": "Tulen Giám thị sấm sét",
+     "coin":"10"
+       }
+  ],
+  "191": [
+    {
+      "bEffects": "false",
+      "id": "19101",
+      "name": "Rouie Sứ giả vũ trụ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19102",
+      "name": "Rouie Công chúa hỏa long",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "19103",
+      "name": "Rouie Tuần lộc đáng yêu",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "19104",
+      "name": "Rouie Vẹt cầu vồng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "19105",
+      "name": "Rouie Sứ giả quang minh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "19106",
+      "name": "Rouie Quang vinh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19108",
+      "name": "Rouie Thụy mộc Thanh long",
+     "coin":"10"
+       }
+  ],
+  "192": [
+    {
+      "bEffects": "false",
+      "id": "19201",
+      "name": "Celica Nữ cao bồi",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19202",
+      "name": "Celica Đếm cừu",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "19204",
+      "name": "Celica Tâm hồn trà sữa",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "19205",
+      "name": "Celica Biệt đội băng lam",
+     "coin":"10"
+       }
+  ],
+  "193": [
+    {
+      "bEffects": "false",
+      "id": "19301",
+      "name": "Amily Đặc cảnh NYPD",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19302",
+      "name": "Amily Đặc công Nhện đỏ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19303",
+      "name": "Amily Thư ký",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19304",
+      "name": "Amily Thỏ may mắn",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19305",
+      "name": "Amily Võ thần thiên hà",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "19306",
+      "name": "Amily Hội ám hoàng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "19307",
+      "name": "Amily Nữ đội trưởng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "19310",
+      "name": "Amily Khủng long xanh",
+     "coin":"10"
+       }
+  ],
+  "195": [
+    {
+      "bEffects": "false",
+      "id": "19501",
+      "name": "Enzo Phẩm chất quý tộc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19502",
+      "name": "Enzo Chiến binh trăng khuyết",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19503",
+      "name": "Enzo Thần thoại Hy Lạp",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "19504",
+      "name": "Enzo Nhà leo núi",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19505",
+      "name": "Enzo Hồng hạc thị vệ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19506",
+      "name": "Enzo Sát quỷ đoàn",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19508",
+      "name": "Enzo Kurapika",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19509",
+      "name": "Enzo Sát thần Bạch Hổ",
+     "coin":"10"
+       }
+  ],
+  "196": [
+    {
+      "bEffects": "false",
+      "id": "19601",
+      "name": "Elsu Cảnh vệ thảo nguyên",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "19602",
+      "name": "Elsu Mafia",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19603",
+      "name": "Elsu Guitar tình ái",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19604",
+      "name": "Elsu Chiến binh bóng tối",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19605",
+      "name": "Elsu Sứ giả tận thế",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "19606",
+      "name": "Elsu Tuyết ưng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19607",
+      "name": "Elsu Xạ thủ tinh linh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19609",
+      "name": "Elsu Trấn Thiên phi hồ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19611",
+      "name": "Elsu Hỏa diệm Chu Tước",
+     "coin":"10"
+       }
+  ],
+  "199": [
+    {
+      "bEffects": "true",
+      "id": "19901",
+      "name": "Elando'rr Soái tặc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "19902",
+      "name": "Elando'rr Phi vụ thế kỷ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19903",
+      "name": "Elando'rr Học viện Carano",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19904",
+      "name": "Elando'rr Siêu thám tử",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19905",
+      "name": "Elando'rr Chú ong bay cao",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "19906",
+      "name": "Elando'rr Tuxedo Mask",
+     "coin":"10"
+       }
+  ],
+  "501": [
+    {
+      "bEffects": "false",
+      "id": "50101",
+      "name": "Tel'Annas Cảnh vệ rừng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "50102",
+      "name": "Tel'Annas Giám thị thân thiện",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50103",
+      "name": "Tel'Annas Chung tình tiễn",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "50104",
+      "name": "Tel'Annas Thánh nữ mật hội",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50105",
+      "name": "Tel'Annas Thần sứ F.E.E-X1",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50106",
+      "name": "Tel'Annas Cẩm y vệ: Phi ưng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "50107",
+      "name": "Tel'Annas Dạ hội",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50108",
+      "name": "Tel'Annas Thứ nguyên vệ thần",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50110",
+      "name": "Tel'Annas Công chúa mộng mơ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50111",
+      "name": "Tel'Annas Vũ khúc yêu hồ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50112",
+      "name": "Tel'Annas Tân niên vệ thần",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "50113",
+      "name": "Tel'Annas Nghìn lẻ một đêm",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "50114",
+      "name": "Tel'Annas Quang vinh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "50115",
+      "name": "Tel'annas Bách hoa tiên nữ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50116",
+      "name": "Tel'annas Ô Thước tiên nữ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50117",
+      "name": "Tel'annas Thiên Vũ Thần Long",
+     "coin":"10"
+       }
+  ],
+  "502": [
+    {
+      "bEffects": "false",
+      "id": "50201",
+      "name": "Astrid Bạch kiếm tiểu thư",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50202",
+      "name": "Astrid Siêu sao bóng chày",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "50203",
+      "name": "Astrid Tổ trưởng học đường",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50204",
+      "name": "Astrid Thần thoại Hy Lạp",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "50205",
+      "name": "Astrid Nữ tổng tài",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50206",
+      "name": "Astrid Thần trí tuệ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "50207",
+      "name": "Astrid Xứ sở diệu kỳ",
+     "coin":"10"
+       }
+  ],
+  "503": [
+    {
+      "bEffects": "false",
+      "id": "50302",
+      "name": "Zuka Đại phú ông",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50303",
+      "name": "Zuka Giáo sư sừng sỏ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50304",
+      "name": "Zuka Phát tài",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50306",
+      "name": "Zuka Diệt nguyệt nguyên soái",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "50307",
+      "name": "Zuka Đầu bếp hoàng cung",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50308",
+      "name": "Zuka Mãnh hổ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50309",
+      "name": "Zuka Rapper Big Panda",
+     "coin":"10"
+       }
+  ],
+  "504": [
+    {
+      "bEffects": "false",
+      "id": "50401",
+      "name": "Wonder Woman Thế chiến",
+     "coin":"10"
+       }
+  ],
+  "505": [
+    {
+      "bEffects": "false",
+      "id": "50501",
+      "name": "Baldum Chú thợ ống nước",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50502",
+      "name": "Baldum Liệt hỏa dung nham",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50503",
+      "name": "Baldum Thần thoại Hy Lạp",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "50504",
+      "name": "Baldum Thế giới kẹo ngọt",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "50505",
+      "name": "Baldum Đồ chơi",
+     "coin":"10"
+       }
+  ],
+  "506": [
+    {
+      "bEffects": "false",
+      "id": "50601",
+      "name": "Omen Sĩ quan viễn chinh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50602",
+      "name": "Omen Ám tử đao",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50603",
+      "name": "Omen Quỷ nguyệt tướng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50604",
+      "name": "Omen Đao phủ tận thế",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50605",
+      "name": "Omen Chiến binh trăng khuyết",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "50606",
+      "name": "Omen Thuyền trưởng hải tặc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50607",
+      "name": "Omen Nhạc sĩ huyền thoại",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50608",
+      "name": "Omen Quái Kiệt Guitar",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50611",
+      "name": "Omen Chiến xa hắc ám",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50612",
+      "name": "Omen Chiến xa quang minh",
+     "coin":"10"
+       }
+  ],
+  "507": [
+    {
+      "bEffects": "true",
+      "id": "50701",
+      "name": "The Flash Tia chớp tương lai",
+     "coin":"10"
+       }
+  ],
+  "508": [
+    {
+      "bEffects": "false",
+      "id": "50801",
+      "name": "Wisp Hải tặc nhí",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50802",
+      "name": "Wisp Thỏ siêu quậy",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50803",
+      "name": "Wisp Ếch nhồi bông",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "50805",
+      "name": "Wisp Máy phát quà",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "50806",
+      "name": "Wisp Rồng đi bộ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "50807",
+      "name": "Wisp Cô bé bút chì",
+     "coin":"10"
+       }
+  ],
+  "509": [
+    {
+      "bEffects": "false",
+      "id": "50901",
+      "name": "Y'bneth Hạt trưởng kiểm lâm",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "50902",
+      "name": "Y'bneth Chiến binh lục bảo",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "50903",
+      "name": "Y'bneth Động cơ vĩnh cửu",
+     "coin":"10"
+       }
+  ],
+  "510": [
+    {
+      "bEffects": "false",
+      "id": "51001",
+      "name": "Liliana Hồ quý phi",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51002",
+      "name": "Liliana Thần tượng âm nhạc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51003",
+      "name": "Liliana Nguyệt mị ly",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51004",
+      "name": "Liliana Tiểu thơ anh đào",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51005",
+      "name": "Liliana Tân nguyệt mị ly",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51006",
+      "name": "Liliana Nữ thần F1",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51007",
+      "name": "Liliana Tiệc bãi biển",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "51008",
+      "name": "Liliana Thủy thủ hồ ly",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51009",
+      "name": "Liliana WaVe",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51013",
+      "name": "Liliana Lưu thủy Thần long",
+     "coin":"10"
+       }
+  ],
+  "511": [
+    {
+      "bEffects": "false",
+      "id": "51101",
+      "name": "Ata Tân thủy thủ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "51102",
+      "name": "Ata Cao bồi",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "51103",
+      "name": "Ata Quang vinh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "51104",
+      "name": "Ata Mèo đi mưa",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "51105",
+      "name": "Ata Chiến binh hải tộc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "51108",
+      "name": "Gà Mờ",
+     "coin":"10"
+       }
+  ],
+  "512": [
+    {
+      "bEffects": "false",
+      "id": "51201",
+      "name": "Rourke Pháo thủ tuộc neo",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51202",
+      "name": "Rourke Biệt đội siêu hùng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "51203",
+      "name": "Rourke Cuồng tặc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "51204",
+      "name": "Rourke Thợ cơ khí",
+     "coin":"10"
+       }
+  ],
+  "513": [
+    {
+      "bEffects": "false",
+      "id": "51301",
+      "name": "Zata Tư lệnh viễn chinh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51302",
+      "name": "Zata Sứ giả tinh hệ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51303",
+      "name": "Zata Thần mặt trời",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51304",
+      "name": "Zata Khiêu chiến",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51305",
+      "name": "Zata Tác gia đương đại",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51306",
+      "name": "Zata Chí tôn Tà phượng",
+     "coin":"10"
+       }
+  ],
+  "514": [
+    {
+      "bEffects": "false",
+      "id": "51401",
+      "name": "Roxie Thám tử tập sự",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51402",
+      "name": "Roxie Kèn ái tình",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51402",
+      "name": "Roxie Kèn ái tình",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "51403",
+      "name": "Roxie Hầu gái",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "51404",
+      "name": "Roxie Tiệc bánh kẹo",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "51405",
+      "name": "Roxie Cháy phố",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "51406",
+      "name": "Roxie Lễ hội hoa",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "51408",
+      "name": "Roxie Hỏa thuật sư",
+     "coin":"10"
+       }
+  ],
+  "515": [
+    {
+      "bEffects": "false",
+      "id": "51501",
+      "name": "Richter Bá tước",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51502",
+      "name": "Richter Thống soái kháng chiến",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "51503",
+      "name": "Richter Dạ hội",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51504",
+      "name": "Richter Thần kiếm Susanoo",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "51505",
+      "name": "Richter Quang vinh 2.0",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51506",
+      "name": "Richter Nguyệt loan đao",
+     "coin":"10"
+       }
+  ],
+  "518": [
+    {
+      "bEffects": "false",
+      "id": "51801",
+      "name": "Quillen Trưởng ngoại khoa",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51802",
+      "name": "Quillen Đặc công mãng xà",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51803",
+      "name": "Quillen Thống soái đế chế",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51804",
+      "name": "Quillen Huyết thủ nguyệt tộc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "51805",
+      "name": "Quillen Sao đỏ học đường",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51806",
+      "name": "Quillen Tà linh ma đao",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51807",
+      "name": "Quillen Hoàng kim soái vương",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51808",
+      "name": "Quillen Nghịch Thiên long đế",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51809",
+      "name": "Quillen Người gác đền",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51810",
+      "name": "Quillen Giám đốc âm nhạc",
+     "coin":"10"
+       }
+  ],
+  "519": [
+    {
+      "bEffects": "false",
+      "id": "51901",
+      "name": "Annette Nữ quản ga",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "51902",
+      "name": "Annette Xứ sở thần tiên",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51903",
+      "name": "Annette Thần tượng âm nhạc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51904",
+      "name": "Annette Tiệc bãi biển",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51905",
+      "name": "Annette Phi hành gia",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "51906",
+      "name": "Annette Vân Mộng tiên tử",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51907",
+      "name": "Annette Nữ sinh Trung học",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51908",
+      "name": "Annette Chị ong bay thấp",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "51909",
+      "name": "Annette Tiên tri tập sự",
+     "coin":"10"
+       }
+  ],
+  "520": [
+    {
+      "bEffects": "false",
+      "id": "52001",
+      "name": "Veres Đạo tặc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52002",
+      "name": "Veres Gián điệp tinh hệ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52003",
+      "name": "Veres Thần thoại Hy Lạp",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "52004",
+      "name": "Veres Chị đại học đường",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52006",
+      "name": "Veres Thuỷ thần kiều diễm",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52007",
+      "name": "Veres Kimono",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52008",
+      "name": "Veres Phù thủy trang điểm",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52009",
+      "name": "Veres Tiệc bãi biển",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52010",
+      "name": "Veres Men Lam Hồn Gốm",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52011",
+      "name": "Veres Lưu Ly Long Mẫu ",
+     "coin":"10"
+       }
+  ],
+  "521": [
+    {
+      "bEffects": "false",
+      "id": "52101",
+      "name": "Florentino Vũ kiếm sư",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52102",
+      "name": "Florentino Giám sát tinh Hệ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "52103",
+      "name": "Florentino Kiếm sĩ Olympic",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "52104",
+      "name": "Florentino Thần thoại Hy Lạp",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52105",
+      "name": "Florentino Seven",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52106",
+      "name": "Florentino Tà long kiếm sĩ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "52107",
+      "name": "Florentino Xứ sở thần tiên",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52108",
+      "name": "Florentino Bá vương Âm nhạc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52110",
+      "name": "Florentino Hisoka",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52111",
+      "name": "Florentino Hỏa diệm Thần long",
+     "coin":"10"
+       }
+  ],
+  "522": [
+    {
+      "bEffects": "false",
+      "id": "52201",
+      "name": "Errol Vượt ngục",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52202",
+      "name": "Errol Diệt nguyệt tiên phong",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "52203",
+      "name": "Errol Quái vật cương thi",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52204",
+      "name": "Errol Genos",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52205",
+      "name": "Errol Huyết thủ Tu La",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "52207",
+      "name": "Errol Stream đến bao giờ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "52208",
+      "name": "Errol Sát thủ Mafia",
+     "coin":"10"
+       }
+  ],
+  "523": [
+    {
+      "bEffects": "false",
+      "id": "52301",
+      "name": "D'Arcy Nam tước",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52302",
+      "name": "D'Arcy Đô đốc tinh Hệ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52303",
+      "name": "D'Arcy Pháp sư hỏa long",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52304",
+      "name": "D'Arcy Tiến sĩ thiên tài",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "52305",
+      "name": "D'Arcy Chân nhân",
+     "coin":"10"
+       }
+  ],
+  "524": [
+    {
+      "bEffects": "false",
+      "id": "52401",
+      "name": "Capheny Hầu gái",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52402",
+      "name": "Capheny Thần tượng âm nhạc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52403",
+      "name": "Capheny Toán Hóa Sinh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52404",
+      "name": "Capheny Kimono",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52405",
+      "name": "Capheny Siêu cấp tin tặc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52406",
+      "name": "Capheny Phi hành gia",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52407",
+      "name": "Capheny Harley Quinn",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52408",
+      "name": "Capheny Quân nhạc Mildar",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52410",
+      "name": "Capheny Tử đinh hương",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52411",
+      "name": "Capheny Vua trò chơi ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "52412",
+      "name": "Capheny S - Quang vinh",
+     "coin":"10"
+       }
+  ],
+  "525": [
+    {
+      "bEffects": "false",
+      "id": "52501",
+      "name": "Zip Gà siêu quậy",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "52502",
+      "name": "Zip Tiểu đệ hổ báo",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "52503",
+      "name": "Zip Cá siêu quậy",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "52504",
+      "name": "Zip Gà siêu cấp",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "52505",
+      "name": "Zip Vua sân cỏ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "52506",
+      "name": "Zip Ông trùm Giáng sinh",
+     "coin":"10"
+       }
+  ],
+  "526": [
+    {
+      "bEffects": "false",
+      "id": "52601",
+      "name": "Ishar Giấc mơ ngọt ngào",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "52602",
+      "name": "Ishar Tiểu thư kẹo ngọt",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "52603",
+      "name": "Ishar Tiểu thư gấu trúc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "52604",
+      "name": "Ishar Lễ hội ma quái",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52605",
+      "name": "Ishar Gián điệp hacker",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "52606",
+      "name": "Ishar Lễ hội ma quái",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52608",
+      "name": "Ishar Rồng bé bự",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "52609",
+      "name": "Ishar Quận chúa sông Nile",
+     "coin":"10"
+       },
+  ],
+  "527": [
+    {
+      "bEffects": "false",
+      "id": "52701",
+      "name": "Sephera Quý tiểu thư",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52702",
+      "name": "Sephera Chiêm tinh gia",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52703",
+      "name": "Sephera Thần tượng âm nhạc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "52704",
+      "name": "Sephera Phi vụ thế kỷ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52705",
+      "name": "Sephera Thần thoại Hy Lạp",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52706",
+      "name": "Sephera Lam Hải phu nhân",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "52707",
+      "name": "Sephera Thủy liên hoa",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "52708",
+      "name": "Sephera Cô thủ thư",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52709",
+      "name": "Sephera Bách nhạn Ngân linh",
+     "coin":"10"
+       }
+  ],
+  "528": [
+    {
+      "bEffects": "false",
+      "id": "52801",
+      "name": "Qi Tiểu long",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52802",
+      "name": "Qi Đặc vụ cáo tuyết",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52803",
+      "name": "Qi Quán quân",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "52804",
+      "name": "Qi Thiếu nữ pháo hoa",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "52805",
+      "name": "Qi Blogger Ẩm thực",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52806",
+      "name": "Qi Búp bê Daruma",
+     "coin":"10"
+       }
+  ],
+  "529": [
+    {
+      "bEffects": "false",
+      "id": "52901",
+      "name": "Volkath Dạ huyết tộc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52902",
+      "name": "Volkath Ma kỵ tử sĩ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52903",
+      "name": "Volkath Xung thiên thần tướng",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "52904",
+      "name": "Volkath Tư lệnh viễn chinh",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52905",
+      "name": "Volkath Chiến thần Ai Cập",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "52906",
+      "name": "Volkath Hắc kỵ thời không",
+     "coin":"10"
+       }
+  ],
+  "530": [
+    {
+      "bEffects": "false",
+      "id": "53001",
+      "name": "Dirak Cảnh vệ bầu trời",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "53002",
+      "name": "Dirak Pháp sư trăng khuyết",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "53003",
+      "name": "Dirak Quý tộc Norman",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53005",
+      "name": "Dirak Ông bầu Showbiz",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53007",
+      "name": "Dirak Quà năm",
+     "coin":"10"
+       }
+  ],
+  "531": [
+    {
+      "bEffects": "false",
+      "id": "53101",
+      "name": "Keera Y tá lạ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53102",
+      "name": "Keera Học viện Carano",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53103",
+      "name": "Keera Sát thủ bí ngô",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "53104",
+      "name": "Keera Thủy thủ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53105",
+      "name": "Keera Tiệc bãi biển",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53107",
+      "name": "Keera Nezuko Kamado",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "53109",
+      "name": "Keera Nghệ sĩ Graffiti",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "53110",
+      "name": "Keera Hồ điệp ",
+     "coin":"10"
+       }
+  ],
+  "532": [
+    {
+      "bEffects": "false",
+      "id": "53201",
+      "name": "Thorne Cận vệ hoàng gia",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53202",
+      "name": "Thorne Giả kim thuật sư",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53203",
+      "name": "Thorne Quán quân",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53204",
+      "name": "Thorne Tiệc bãi biển",
+     "coin":"10"
+       }
+  ],
+  "533": [
+    {
+      "bEffects": "false",
+      "id": "53301",
+      "name": "Laville Tay đua đường phố",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53302",
+      "name": "Laville Tay súng diệt thần",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "53303",
+      "name": "Laville Tay súng vô địch",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53304",
+      "name": "Laville Xạ thần Tinh Vệ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53305",
+      "name": "Laville Kim Quy thần vương",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53306",
+      "name": "Laville Tiệc bãi biển",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53307",
+      "name": "Laville Sắc màu Holi",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53308",
+      "name": "Laville Chiến thần MOBA",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53309",
+      "name": "Laville Vệ binh Giáng sinh",
+     "coin":"10"
+       }
+  ],
+  "534": [
+    {
+      "bEffects": "false",
+      "id": "53401",
+      "name": "Dextra Chiến binh quyến rũ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53402",
+      "name": "Dextra Quận chúa Tuyết",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "53404",
+      "name": "Dextra Quý cô tuổi Dần",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53405",
+      "name": "Dextra Băng Sa công chúa",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "53406",
+      "name": "Dextra Lữ khách cao nguyên",
+     "coin":"10"
+       }
+  ],
+  "535": [
+    {
+      "bEffects": "false",
+      "id": "53501",
+      "name": "Sinestrea Giấc mơ trưa",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53502",
+      "name": "Sinestrea Tiểu thư Băng giá",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53503",
+      "name": "Sinestrea WaVe",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53504",
+      "name": "Sinestrea Điệp viên cánh cụt",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "53507",
+      "name": "Sinestrea Đại tiểu thư",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "53508",
+      "name": "Sinestrea Tiểu thư bóng đêm",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "53509",
+      "name": "Sinestrea Lữ khách sa mạc",
+     "coin":"10"
+       }
+  ],
+  "536": [
+    {
+      "bEffects": "false",
+      "id": "53601",
+      "name": "Aoi Sát thủ đô thị",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53602",
+      "name": "Aoi Hoàng kim công chúa",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "53604",
+      "name": "Aoi Tiệc bãi biển",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53605",
+      "name": "Aoi Lam Hải quận chúa",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53606",
+      "name": "Aoi Tiểu thư Mafia",
+     "coin":"10"
+       }
+  ],
+  "537": [
+    {
+      "bEffects": "true",
+      "id": "53701",
+      "name": "Allain Hắc kiếm sĩ Kirito",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53702",
+      "name": "Allain Kirito",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53703",
+      "name": "Allain Tuyết sơn song kiếm",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53704",
+      "name": "Allain Thần mặt trời",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53705",
+      "name": "Allain Bạch kiếm sĩ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53706",
+      "name": "Allain Hạo Thiên Khuyển",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53707",
+      "name": "Allain Tình yêu nổi loạn",
+     "coin":"10"
+       }
+  ],
+  "538": [
+    {
+      "bEffects": "false",
+      "id": "53801",
+      "name": "Iggy Tiểu hoàng đế",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53802",
+      "name": "Iggy Thần Miêu thiếu chủ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "53803",
+      "name": "Iggy Bạch hồ ly",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "53804",
+      "name": "Iggy Yêu nhân học viện",
+     "coin":"10"
+       }
+  ],
+  "539": [
+    {
+      "bEffects": "false",
+      "id": "53901",
+      "name": "Lorion Chiến giáp hắc ám",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53902",
+      "name": "Lorion Hỏa vân tà thần",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53903",
+      "name": "Lorion Quân vương bóng tối",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "53904",
+      "name": "Lorion Quân vương ánh sáng",
+     "coin":"10"
+       }
+  ],
+  "540": [
+    {
+      "bEffects": "false",
+      "id": "54001",
+      "name": "Bright Soái ca thánh điện",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "54002",
+      "name": "Bright Toshiro Hitsugaya",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "54003",
+      "name": "Bright Khiêu chiến",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "54004",
+      "name": "Bright Mật vụ hacker",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "54006",
+      "name": "Bright Kỳ Lân soái",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "54007",
+      "name": "Bright Vua về nhì",
+     "coin":"10"
+       }
+  ],
+  "541": [
+    {
+      "bEffects": "true",
+      "id": "54101",
+      "name": "Bonnie Thỏ ma quái",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "54102",
+      "name": "Bonnie Cô bé sợ ma",
+     "coin":"10"
+       }
+  ],
+  "542": [
+    {
+      "bEffects": "false",
+      "id": "54201",
+      "name": "Tachi Lãng khách",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "54202",
+      "name": "Tachi Đao khách vô tình",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "54203",
+      "name": "Tachi Xích long hỏa diệm",
+     "coin":"10"
+       }
+  ],
+  "543": [
+    {
+      "bEffects": "false",
+      "id": "54301",
+      "name": "Aya Hoạt náo viên",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "54302",
+      "name": "Aya Điệp viên ký ức",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "54303",
+      "name": "Aya MC Sóc nhỏ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "54304",
+      "name": "Aya Thủy thủ",
+     "coin":"10"
+       }
+  ],
+  "544": [
+    {
+      "bEffects": "true",
+      "id": "54401",
+      "name": "Yan Nhà chế tác",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "54402",
+      "name": "Yan Tanjiro Kamado",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "54403",
+      "name": "Yan Công tước Norman",
+     "coin":"10"
+       }
+  ],
+  "545": [
+    {
+      "bEffects": "false",
+      "id": "54501",
+      "name": "Yue Tiểu công chúa",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "54503",
+      "name": "Yue Chiêm tinh gia",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "54504",
+      "name": "Yue Vũ phiến hỏa diệm",
+     "coin":"10"
+       }
+  ],
+  "546": [
+    {
+      "bEffects": "true",
+      "id": "54601",
+      "name": "Teeri Tiểu kỳ lân",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "54603",
+      "name": "Teeri Thuyền trưởng song luân",
+     "coin":"10"
+       }
+  ],
+  "548": [
+    {
+      "bEffects": "false",
+      "id": "54801",
+      "name": "Bijan Chiến binh sa mạc",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "54802",
+      "name": "Bijan Hoàng Kim cơ giáp",
+     "coin":"10"
+       },
+    {
+      "bEffects": "true",
+      "id": "54804",
+      "name": "Bijan Kình thiên Long kỵ",
+     "coin":"10"
+       }
+  ],
+  "567": [
+    {
+      "bEffects": "null",
+      "id": "null",
+      "name": "null",
+     "coin":"null"
+       }
+  ],
+  "568": [
+    {
+      "bEffects": "false",
+      "id": "56801",
+      "name": "Ming Thầy tướng",
+     "coin":"10"
+       }
+  ],
+  "194": [
+    {
+      "bEffects": "null",
+      "id": "null",
+      "name": "null",
+     "coin":"null"
+       }
+  ],
+  "999": [
+    {
+      "bEffects": "false",
+      "id": "99901",
+      "name": "Mặc định Thỏ - Tiểu nữ quái",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99902",
+      "name": "Mặc định Thỏ - Nữ quái xì teen",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99903",
+      "name": "Mặc định Thỏ - Nữ quái Công nghệ",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99904",
+      "name": "Mặc định Thỏ - Thần tượng học đường I",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99905",
+      "name": "Mặc định Thỏ - Thần tượng học đường II",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99906",
+      "name": "Mặc định Thỏ - Thần tượng học đường III",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99907",
+      "name": "Mặc định Thỏ - Sao đỏ học đường I",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99908",
+      "name": "Mặc định Thỏ - Sao đỏ học đường II",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99909",
+      "name": "Mặc định Thỏ - Sao đỏ học đường III",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99910",
+      "name": "Mặc định Thỏ - Phù thủy nhỏ I",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99911",
+      "name": "Mặc định Thỏ - Phù thủy nhỏ II",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99912",
+      "name": "Mặc định Thỏ - Phù thủy nhỏ III",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99913",
+      "name": "Mặc định Thỏ - Siêu cấp sát thủ I",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99914",
+      "name": "Mặc định Thỏ - Siêu cấp sát thủ II",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99915",
+      "name": "Mặc định Thỏ - Siêu cấp sát thủ III",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99916",
+      "name": "Mặc định Thỏ - Quỷ kiếm I",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99917",
+      "name": "Mặc định Thỏ - Quỷ kiếm II",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99918",
+      "name": "Mặc định Thỏ - Quỷ kiếm III",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99919",
+      "name": "Mặc định Cún- Đại tướng nguyệt tộc I",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99920",
+      "name": "Mặc định Cún- Đại tướng nguyệt tộc II",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99921",
+      "name": "Mặc định Cún- Đại tướng nguyệt tộc III",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99922",
+      "name": "Mặc định Cún- Gián điệp tinh hệ I",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99923",
+      "name": "Mặc định Cún- Gián điệp tinh hệ II",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99924",
+      "name": "Mặc định Cún- Gián điệp tinh hệ III",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99925",
+      "name": "Mặc định Cún- Siêu sao bóng chày I",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99926",
+      "name": "Mặc định Cún- Siêu sao bóng chày II",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99927",
+      "name": "Mặc định Cún- Siêu sao bóng chày III",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99928",
+      "name": "Mặc định Cún- Tiệc bãi biển I",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99929",
+      "name": "Mặc định Cún- Tiệc bãi biển II",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99930",
+      "name": "Mặc định Cún- Tiệc bãi biển III",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99931",
+      "name": "Mặc định Cún - Quyền Vương I",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99932",
+      "name": "Mặc định Cún - Quyền Vương II",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99933",
+      "name": "Mặc định Cún - Quyền Vương III",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99934",
+      "name": "Mặc định Cún - Thanh gươm chính nghĩa I",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99935",
+      "name": "Mặc định Cún - Thanh gươm chính nghĩa II",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99936",
+      "name": "Mặc định Cún - Thanh gươm chính nghĩa III",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99937",
+      "name": "Mặc định Thỏ Hội ám hoàng I",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99938",
+      "name": "Mặc định Thỏ Hội ám hoàng II",
+     "coin":"10"
+       },
+    {
+      "bEffects": "false",
+      "id": "99939",
+      "name": "Mặc định Thỏ Hội ám hoàng u",
+     "coin":"10"
+       }
+  ]
+}
